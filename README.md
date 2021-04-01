@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my studies at **UC San Diego** as a Computer Science major and Mathematics minor
-- 🌱 I’m currently learning how to become a software engineer
+- 🌱 I’m currently learning how to become a computer scientist
 - 👯 I’m looking to collaborate on any projects working to solve real-world problems 
 - 🤔 I’m looking for help to learn more, I believe everyone has something to teach me
 - 💬 Ask me about philosophy 
@@ -10,4 +10,4 @@
   - Email: billchung6@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/williamkchung/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I want to become a pilot
+- ⚡ Fun fact: I also want to become a pilot
