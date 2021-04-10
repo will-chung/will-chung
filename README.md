@@ -6,8 +6,8 @@
 - 🤔 I’m looking for help to learn more, I believe everyone has something to teach me
 - 💬 Ask me about philosophy 
 - 📫 How to reach me:
-  1. Email: billchung6@gmail.com
-  2. Phone: 714-696-4702
-  3. [LinkedIn](https://www.linkedin.com/in/williamkchung/)
+  - Email: billchung6@gmail.com
+  - Phone: 714-696-4702
+  - [LinkedIn](https://www.linkedin.com/in/williamkchung/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I also want to become a pilot
