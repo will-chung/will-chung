@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
 
-- 🔭 I’m currently working on my studies at [**UC San Diego**](https://ucsd.edu/) as a [Computer Science](https://cse.ucsd.edu/) major and [Mathematics](https://www.math.ucsd.edu/) minor
-- 🌱 I’m currently learning how to become a computer scientist
-- 👯 I’m looking to collaborate on any projects working to solve real-world problems 
-- 🤔 I’m looking for help to learn more, I believe everyone has something to teach me
-- 💬 Ask me about philosophy 
+I'm an aspiring artificial intelligence scientist.
+
 - 📫 How to reach me:
   - Email: billchung6@gmail.com
-  - Phone: 714-696-4702
   - [LinkedIn](https://www.linkedin.com/in/williamkchung/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also want to become a pilot
+- ⚙️ Skills
+  - Programming Languages: Python, C, C++, Java, JavaScript
+  - Frameworks: PyTorch, TensorFlow, CUDA
+- 📚 Education
+  - BS in Computer Science (minor in Mathematics) from UCSD, June 2023
+  - MS in Computer Science from UCSD, June 2024
