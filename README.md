@@ -1,9 +1,9 @@
 ### Hi there! 👋
 
-I'm an aspiring artificial intelligence scientist.
+I'm an aspiring artificial intelligence engineer.
 
 - 📫 How to reach me:
-  - Email: billchung6@gmail.com
+  - billchung6@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/williamkchung/)
 - ⚙️ Skills
   - Programming Languages: Python, C, C++, Java, JavaScript
