@@ -9,5 +9,5 @@ I'm an aspiring artificial intelligence engineer.
   - Frameworks: PyTorch, TensorFlow, CUDA
   - Programming Languages: Python, C, C++, Java, JavaScript
 - 📚 Education
-  - BS in Computer Science (minor in Mathematics) from UCSD, June 2023
   - MS in Computer Science from UCSD, June 2024
+  - BS in Computer Science (minor in Mathematics) from UCSD, June 2023
