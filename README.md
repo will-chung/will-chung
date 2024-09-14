@@ -6,7 +6,7 @@ I'm an aspiring artificial intelligence engineer.
   - billchung6@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/williamkchung/)
 - ⚙️ Skills
-  - Frameworks: PyTorch, TensorFlow, CUDA
+  - Frameworks and Libraries: PyTorch, TensorFlow, CUDA
   - Programming Languages: Python, C, C++, Java, JavaScript
 - 📚 Education
   - MS in Computer Science from UCSD, June 2024
